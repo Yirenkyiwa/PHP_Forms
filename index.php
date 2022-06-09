@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Form Task</title>
-</head> 
 
-<style type="text/css">
+    <title>ZuriBoard PHP Form Task</title>
+
+    <style type="text/css">
 
     h1{
         color: navy;
@@ -40,6 +40,9 @@
         border-radius:5px;
     }
 </style>
+
+</head> 
+
 <body>
     <h1>Form</h1>
     <form action="user_data.php" method="POST">
